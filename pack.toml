@@ -1,13 +1,16 @@
-name = "Soberana Server"
-author = "soberanacraft"
-version = "2.0.0"
+name = "bv-server"
+author = "alikindsys"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e6379f2675269d134e3137bf30d854ed1ab9121e6cecfa491dcba7d587fff156"
+hash = "4e3aa4857fcc51d7f2fb60125388fb96727f14b0e6fb7b7d9ddb69c53ba4d1fa"
 
 [versions]
-minecraft = "1.20.1"
-quilt = "0.27.0-beta.1"
+fabric = "0.18.4"
+minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = []

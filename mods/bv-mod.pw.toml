@@ -1,7 +1,0 @@
-name = "bv-mod"
-filename = "bv-quilt-2.0.0.jar"
-
-[download]
-url = "https://github.com/blocovermelho/mod/releases/download/2.0.0/bv-quilt-2.0.0.jar"
-hash-format = "sha256"
-hash = "53f9172ab51eea4938f7ac481d59cbd512f7c6065c6ac29a03947d1dc6816b9c"
