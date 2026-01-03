@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bv-auth-mod.pw.toml"
+hash = "e73f149d3efa15c47b677a427fb940dde6b50757a444577fbcf5fd05dbe0f5f5"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "fbb61854650a7cdf7eb2244e0599bae2f0541864a9b7cf74f8272972e6bdb18e"
 metafile = true
