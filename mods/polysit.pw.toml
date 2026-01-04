@@ -1,0 +1,13 @@
+name = "Polysit"
+filename = "polysit-0.9.9+mc.1.21.11-rc1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G9eJHDO2/versions/aCPbwIpT/polysit-0.9.9%2Bmc.1.21.11-rc1.jar"
+hash-format = "sha512"
+hash = "83f7522e1e21d17c4f64833a9e4898738d149404bdc2d2fd52e7934f0a832965bbf5754da6c7aacd7f436f302c8632a7bcfb07173ce7e313cb1bc80ce678b878"
+
+[update]
+[update.modrinth]
+mod-id = "G9eJHDO2"
+version = "aCPbwIpT"

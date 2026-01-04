@@ -96,6 +96,16 @@ hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "b39ee5a28d5548d591e8f396d2407893affcc71470d7c058d3287039a960e55d"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "f1af121e35d7587cb143d66ea4b080ee95c0e6458c41c6355fbaec9d306e10c6"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
