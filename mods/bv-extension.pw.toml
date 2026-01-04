@@ -1,0 +1,7 @@
+name = "bv-extension"
+filename = "extension-1.3.5.jar"
+
+[download]
+url = "https://github.com/blocovermelho/extension/releases/download/1.3.5/extension-1.3.5.jar"
+hash-format = "sha256"
+hash = "1dca43a262d4fdd31414447a534b8c4aa60341531eb6f0245749e85e0904921d"
