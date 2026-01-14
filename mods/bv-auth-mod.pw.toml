@@ -1,7 +1,7 @@
 name = "bv-auth-mod"
-filename = "bv-auth-mod-1.0.jar"
+filename = "bv-auth-mod-1.0.0+1.21.11-fabric.jar"
 
 [download]
-url = "https://github.com/blocovermelho/mod/releases/download/3.0.0/bv-auth-mod-1.0.jar"
+url = "https://github.com/blocovermelho/mod/releases/download/3.0.1/bv-auth-mod-1.0.0+1.21.11-fabric.jar"
 hash-format = "sha256"
-hash = "e2614218f39abbf659f8d220b82ce0e97f313469be42f7ab3861304986be313f"
+hash = "0d9a7b9ed401ca510de43b4b5b2dc55cab1a1c9faa4841f14679d4032bc80382"

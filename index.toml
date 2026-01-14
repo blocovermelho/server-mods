@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/bv-auth-mod.pw.toml"
-hash = "e73f149d3efa15c47b677a427fb940dde6b50757a444577fbcf5fd05dbe0f5f5"
+hash = "d41e608e5a198f58a1f1166f2abc0df7322dbd5057aae41e27bf4a8f278da255"
 metafile = true
 
 [[files]]
