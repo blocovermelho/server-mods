@@ -1,7 +1,7 @@
 {
   "version": 1,
   "overrides": {
-    "extension": {
+    "bv-extension": {
         "depends": {
           "minecraft":">=26.1"
         }
