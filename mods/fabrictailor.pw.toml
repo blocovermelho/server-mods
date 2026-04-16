@@ -1,7 +1,7 @@
 name = "fabrictailor"
-filename = "fabrictailor-2.8.2.jar"
+filename = "fabrictailor-2.9.1.jar"
 
 [download]
-url = "https://github.com/blocovermelho/infra/releases/download/0.0.0/fabrictailor-2.8.2.jar"
+url = "https://cdn.modrinth.com/data/g8w1NapE/versions/7hgePJ8c/fabrictailor-2.9.1.jar"
 hash-format = "sha256"
-hash = "be0b2ca267b4947c5a937f28037152f4af2a3b2e037d7e12457a76a2e0af6022"
+hash = "a20627917cb9e6b441954ecd488fb8b601ae2e0fd4e5f7967ac7ffbfdeb324e7"
