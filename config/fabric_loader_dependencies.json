@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "extension": {
+        "depends": {
+          "minecraft":">=26.1"
+        }
+      },
+      "minimotd-fabric": {
+        "depends": {
+          "minecraft":">=26.1"
+      }
+    }
+  }
+}
