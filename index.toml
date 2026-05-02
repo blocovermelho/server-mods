@@ -6,7 +6,7 @@ hash = "2d245a7316faa698cf3852a66325c8752d15fbf63810ae31c72218391c6429cb"
 
 [[files]]
 file = "mods/bv-auth-mod.pw.toml"
-hash = "245f038651e3fbcc5b95688c08f61b5e56d84909911779682abc3e46bd5fbbb9"
+hash = "2984cc75d571e3b85b133a1c9697522690ba83d1b053e2e74c2ee808cf8075d3"
 metafile = true
 
 [[files]]
