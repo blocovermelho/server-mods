@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2d245a7316faa698cf3852a66325c8752d15fbf63810ae31c72218391c6429cb"
+hash = "7ae2ad377b397bc5c419f71294ee79990f5469845eecd7b9f2195ff10c89e529"
 
 [[files]]
 file = "mods/bv-auth-mod.pw.toml"
