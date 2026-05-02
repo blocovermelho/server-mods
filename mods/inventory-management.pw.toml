@@ -1,13 +1,13 @@
 name = "Inventory Management"
-filename = "inventorymanagement-1.6.1+1.21.11.jar"
+filename = "inventorymanagement-1.6.1+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F7wXag4i/versions/j6rPwIOk/inventorymanagement-1.6.1%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/syQGUXdB/inventorymanagement-1.6.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "6251d1d28672ac7a41d084062d8a364c12c9fab0c49e9d07fb487fa45395216718beed04175ad9c82dc1be2ae38bdcf817b7200a6dbd7c533991c97c1d1ce41d"
+hash = "b139e8006f6f8fc493d10494c77b313960e494ff37a9290aabb4a0166a4c19a13b813c0998aece463ab52502fcf4a13ddb25acc875259f97ef6f03783a5c6f00"
 
 [update]
 [update.modrinth]
 mod-id = "F7wXag4i"
-version = "j6rPwIOk"
+version = "syQGUXdB"
