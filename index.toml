@@ -60,6 +60,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "34cac11a3a8ebddce329627737df9f4494588b47d79c40413754e48211242103"
+metafile = true
+
+[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "a89997d98a15a92a8ce75fac1fcf7bc3542e1189a6acc8df1ac2fb618de079f5"
 metafile = true
