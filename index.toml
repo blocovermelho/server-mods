@@ -100,6 +100,11 @@ hash = "40d9ea5805a19fcc092204de25c30f2812860022af146051989a55f1f0d14a58"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+hash = "9e06a3637ff6894c230d6bb860efdd352b59b1fc69c25ae600314fd8504b8d96"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "84f7568e4fb421bb7e16265c923db435aeb9cdcccdfbdcf135a63a85f6dcb9ec"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2e210dbb2eca274d176c1f5d93d41638f9826153d358e9c428f1341331bc0ea5"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "34d8d8af2444a0868c14dbc27369f60edd0c0cfec5f09b4ebdc0da929d79af31"
 metafile = true
 
 [[files]]
