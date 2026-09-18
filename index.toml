@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1117b9134fb4cc3265485eb41fc9602178c066ec944fe763fb2ba4374b8f1e48"
+hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/minimotd.pw.toml"
-hash = "2960bbc9013c795c1ced02c2c04b51a43f2c79c89e475006b83b893f8a3ba23d"
+hash = "0f24464243415b4407c26e16b1c340642b3069faa2382649ad24c9b1cb7bf552"
 metafile = true
 
 [[files]]
@@ -106,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+hash = "e2b6540e0f7c6a728d575235084f50c6398e23924f4a4fa4e8d5182aeffe803c"
 metafile = true
 
 [[files]]
@@ -136,17 +136,17 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "d2bab1638203b255d441577ecb92a32167bcf383cba06b3b40f307a3954326d7"
+hash = "7ebdb6a20d095943eee7346de94c6ba20a5eb2c5e9257c72331b0229862d866d"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "adef63b0ebeae2936a22a937daa4b468836896af2af88ff539a8a11779242351"
+hash = "24db419d3ae7213a3ab1821b043474cc0e0aae6996b804d511b20a15bbf185d4"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "2dd886710cf5df6703f0981443dc867f9df2edf76ebc19fcfcf916af3e176ddb"
+hash = "8d860ec02053d85f19bf18f9d9bcec8a619d11108954a70d8c0b1730e91c7fab"
 metafile = true
 
 [[files]]
@@ -156,10 +156,10 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "9c823046a9cdbac72642d79c93526c0b7f3c88ec3cc6f98ac168d52c9faa3175"
+hash = "ed92e428fcda112612d866cdd431222272e4f7d1400504f33e3c53409170b9eb"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "358710fa16b1f522d8a3e9e1bce2304666dae85ca7970d1a9bec683a32b7b424"
+hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
 metafile = true
