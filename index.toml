@@ -110,6 +110,11 @@ hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
 
 [[files]]
+file = "mods/server_waypoint.pw.toml"
+hash = "b7ebf9c3a68cb7bcc0996beace1993c51a57568794a44aeb64a48e651de2a932"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "e2b6540e0f7c6a728d575235084f50c6398e23924f4a4fa4e8d5182aeffe803c"
 metafile = true
