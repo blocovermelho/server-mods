@@ -1,13 +1,13 @@
 name = "Styled Player List"
-filename = "styledplayerlist-3.11.1+26.1.jar"
+filename = "styledplayerlist-3.12.0+26.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/DQIfKUHf/versions/bzbuSIb1/styledplayerlist-3.11.1%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/DQIfKUHf/versions/dphV3ifd/styledplayerlist-3.12.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "4c4ea38ab2eb2cc4b147889bc69e304fa8736b950817c093227dd5843bdb31f3b1706e249643d21751845eb4d1ee20e7c147fa4b008c012f2a9d04e6d84f5608"
+hash = "3e768c12a56a4fcd34bb5c22719e8b7f5581e19640de74af716b36d8feac23921be8120a6066b13efe620a4cb6135538357723d64062656321196596346d65ca"
 
 [update]
 [update.modrinth]
 mod-id = "DQIfKUHf"
-version = "bzbuSIb1"
+version = "dphV3ifd"

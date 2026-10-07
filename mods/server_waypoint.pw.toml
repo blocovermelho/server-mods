@@ -1,13 +1,13 @@
 name = "Server Waypoint"
-filename = "server_waypoint-3.0.4-fabric-mc26.1-26.1.2.jar"
+filename = "server_waypoint-3.0.4-fabric-mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UyBaYBa7/versions/ZjCKabkR/server_waypoint-3.0.4-fabric-mc26.1-26.1.2.jar"
+url = "https://cdn.modrinth.com/data/UyBaYBa7/versions/I5VAtOOR/server_waypoint-3.0.4-fabric-mc26.2.jar"
 hash-format = "sha512"
-hash = "4e53da18c418a6a31706a164231ff85adcf41a89f4a1cff7224cf863db983d0c137a6fea7d35850ce2f8b796caa1b4733730111ad13824cae6269d5c9b6f821a"
+hash = "b30600b8004f847e341b2fad824e0b180ca5be9cd6c588899da28e0627e95f3906bbc147574e08f6c99fdee16e695e947e698eb0dde61c1700a7200ff32a218e"
 
 [update]
 [update.modrinth]
 mod-id = "UyBaYBa7"
-version = "ZjCKabkR"
+version = "I5VAtOOR"

@@ -2,9 +2,9 @@
 Mods utilizados no servidor da soberana.
 
 Você está na branch: `v2`.
-- A v2 ainda não foi lançada -
+- A lista de mods abaixo está potencialmente desatualizada -
 
-Core Version: 1.19.3
+Core Version: 26.2
 
 ##  Otimização
 - [Lithium](https://modrinth.com/mod/lithium)
