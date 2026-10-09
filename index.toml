@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d9964975bec9ca3c526c5d14f67258afaf28de7280e34271e3d209d65828938d"
+hash = "0bc437e26f22db434fbf6bd445fb3b8488f5e8b398b8fab98e0a6ca40a312348"
 
 [[files]]
 file = "mods/carpet.pw.toml"
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "27549bd1b94f9b56d44a574a8b9330c227962d6c47c4a1ddfc6fa693560cc94d"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "fc6ed047d2ef8a289ff2f85e1852d403e36260dd0ef37fac7266071288e06b70"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
