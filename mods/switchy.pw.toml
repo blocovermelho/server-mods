@@ -1,15 +1,15 @@
 name = "switchy"
-filename = "switchy-3.7.3-BV+26.2.jar"
+filename = "switchy-3.7.3-BV+26.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/LoboMetalurgico/switchy/releases/download/v3.7.3-BV%2B26.2/switchy-3.7.3-BV%2B26.2.jar"
+url = "https://github.com/blocovermelho/switchy/releases/download/v3.7.3-BV%2B26.3/switchy-3.7.3-BV%2B26.3.jar"
 hash-format = "sha256"
-hash = "dcbd2a7eca9d6656c24e80231e983f2768eb0689ac39e58ccc936f32dd53761c"
+hash = "a30f08b1c1cc6e942487866630ea659f9b99c007c796c76a0d36406746bdcc54"
 
 [update]
 [update.github]
-branch = "26.2"
+branch = "26.3"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "LoboMetalurgico/switchy"
-tag = "v3.7.3-BV+26.2"
+slug = "blocovermelho/switchy"
+tag = "v3.7.3-BV+26.3"
